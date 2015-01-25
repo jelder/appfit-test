@@ -1,1 +1,1 @@
-web: passenger -p $PORT
+web: passenger start --port $PORT
